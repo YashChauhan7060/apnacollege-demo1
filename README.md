@@ -1,4 +1,4 @@
 # apnacollege-demo1
 This is my first repository.
 <br>
-Author-yash Chauhan
+Author-yash (chauhan)
